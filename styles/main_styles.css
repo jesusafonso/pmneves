@@ -264,6 +264,14 @@ section
 	top: 15px;
 	background-color: #590a26e8;
 }
+/*Em construção */
+/*
+.header.scrolled
+{	
+	top: 15px;
+	background-color: #590a26e8;
+}
+*/
 .header.scrolled .header_content::before
 {
 	box-shadow: 0px 20px 49px rgba(132, 20, 20, 0.17);
